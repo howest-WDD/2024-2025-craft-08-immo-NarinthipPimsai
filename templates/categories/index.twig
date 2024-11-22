@@ -14,7 +14,7 @@
 			<!-- categories -->
 			{% set categories = allCategories.children.all() %}
 			<div class="row g-3 justify-content-center c-section__content">
-			{% for categorie in categories %}
+				{% for categorie in categories %}
 					<a href={{ url(categorie.uri) }} class="c-categories__card col-12 col-sm-3 col-lg-2">
 
 						<div class="c-categories__info">
@@ -25,10 +25,8 @@
 							<img src={{categorie.cover.one().getUrl()}} alt="" class="c-categories__img">
 						</div>
 					</a>
-				{% endfor %}	
-				</div>
+				{% endfor %}
+			</div>
 		</div>
 	</div>
-
-
 {% endblock %}
