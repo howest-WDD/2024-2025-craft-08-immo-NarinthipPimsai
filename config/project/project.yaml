@@ -1,4 +1,4 @@
-dateModified: 1732265257
+dateModified: 1732270306
 email:
   fromEmail: voornaam.naam@howest.be
   fromName: 'Craft Template'
@@ -15,14 +15,17 @@ meta:
   __names__:
     0dafb592-6d27-4132-a93b-5eeef2af4dd7: 'List Items' # List Items
     5d45f9f4-7ab7-4459-926d-a8006cad4227: Images # Images
+    7e01e965-e32b-450f-8aec-3e8f5c98cde5: Categories # Categories
     10d2260b-dd05-4a49-abb3-800017e15928: 'Craft Template' # Craft Template
     21d6f9ae-1d22-490e-bd89-d6ded5d514ac: 'body text' # body text
     35c35080-108d-485f-925f-407a5ab65a22: Cover # Cover
     68a10d40-1a5d-41af-812e-eebc5c4433d0: Carousel # Carousel
     69c2a9f4-f205-4d68-abed-06fc2fad5e5b: Strenghts # Strenghts
+    91a43a30-dd59-47cb-b0b0-4b185f488b9a: Categories # Categories
     955b3b78-0dbd-47ac-9db5-c15151bf0b94: Details # Details
     1094b8b3-5e0b-4264-b997-5e1e4110a127: House # House
     19178fcc-602e-4e2e-a2a4-abf44f2ec6a3: House # House
+    94695f2a-c3a1-413b-9104-7237934d049c: Categories # Categories
     1765228e-0ad3-49c0-a7df-f552ada1e942: State # State
     a3917b41-5b9e-455d-82b1-9867d010e228: 'Body Text' # Body Text
     bfc5caff-33ac-495a-8336-7abe2887b021: 'Public Schema' # Public Schema

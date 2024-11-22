@@ -1,0 +1,30 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  - 7e01e965-e32b-450f-8aec-3e8f5c98cde5 # Categories
+handle: categories
+maxAuthors: 1
+name: Categories
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  f6eaef1f-2f88-4856-8eee-c5ae9620f572: # Craft Template
+    enabledByDefault: true
+    hasUrls: true
+    template: categories/_entry.twig
+    uriFormat: 'categories/{slug}'
+structure:
+  maxLevels: null
+  uid: a04cd20b-12f5-460e-901b-1beac1e9b10b
+type: structure
