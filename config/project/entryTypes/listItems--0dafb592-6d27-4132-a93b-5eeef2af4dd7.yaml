@@ -1,0 +1,37 @@
+color: red
+fieldLayouts:
+  01cd71c8-478f-4f62-9110-9d42d5200df5:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2024-11-22T08:44:59+00:00'
+            elementCondition: null
+            fieldUid: e2e222ba-6107-4ebe-ba6f-c26cc3a40dd8 # Plain Text
+            handle: listItem
+            includeInCards: false
+            instructions: null
+            label: 'List Item'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d533c3b9-c2a9-4374-a067-9863233f3f9c
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: ddc75078-6322-476b-b41f-4893c023a0b2
+        userCondition: null
+handle: listItems
+hasTitleField: false
+icon: aperture
+name: 'List Items'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: ''
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
